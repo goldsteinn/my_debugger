@@ -1,0 +1,98 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "main.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "main.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "opt.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "opt.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "OLD_VERSION.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "OLD_VERSION.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "debug.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "debug.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "bits.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "bits.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "hashtable.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "hashtable.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "arg.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "arg.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-O0",
+            "-g3",
+            "-D_GNU_SOURCE",
+            "util.c"
+        ],
+        "directory": "/home/noah/programs/print-frame",
+        "file": "util.c"
+    }
+]
